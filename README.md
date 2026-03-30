@@ -32,11 +32,11 @@ Moving beyond a simple baseline model, this project focuses on **production-read
 If you prefer to download the code and run the model on your local machine, follow these steps:
 
 **1. Clone the repository:**
-``bash
+```bash
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
 2. Install dependencies:
-Ensure you have Python installed, then install the required packages:``
+Ensure you have Python installed, then install the required packages:```
 
 ``Bash
 pip install pandas numpy scikit-learn tensorflow streamlit
