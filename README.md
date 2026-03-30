@@ -3,8 +3,7 @@
 An end-to-end Machine Learning project that predicts whether it will rain tomorrow in various Australian cities. This project features a robust Scikit-Learn preprocessing pipeline, a TensorFlow/Keras neural network, and an interactive Streamlit web dashboard.
 
 ## 🌐 Live Web App
-**Try the model yourself:** [Click here to launch the Rain Prediction App](INSERT_YOUR_STREAMLIT_LINK_HERE)
-
+**Try the model yourself:** https://australian-rain-prediction-app-athhasvhizujqidpysbp6h.streamlit.app/
 ## 🚀 Project Overview
 
 The goal of this project is to accurately predict the `RainTomorrow` target variable using historical weather data. 
