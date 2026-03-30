@@ -32,21 +32,21 @@ Moving beyond a simple baseline model, this project focuses on **production-read
 If you prefer to download the code and run the model on your local machine, follow these steps:
 
 **1. Clone the repository:**
-bash
+``bash
 git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
 cd YOUR_REPO_NAME
 2. Install dependencies:
-Ensure you have Python installed, then install the required packages:```
+Ensure you have Python installed, then install the required packages:``
 
-Bash
+``Bash
 pip install pandas numpy scikit-learn tensorflow streamlit
-3. Run the Streamlit App:
+3. Run the Streamlit App:``
 
-Bash
+``Bash
 streamlit run app.py
-The application will open automatically in your default web browser (usually at http://localhost:8501).
+The application will open automatically in your default web browser (usually at http://localhost:8501).``
 
-`📂 Project Structure
+```📂 Project Structure
 experiment.ipynb: The core Jupyter Notebook containing exploratory data analysis, pipeline construction, model training, and bias testing.
 
 app.py: The Streamlit application script for the interactive front-end.
