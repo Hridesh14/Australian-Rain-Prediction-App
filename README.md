@@ -33,7 +33,7 @@ If you prefer to download the code and run the model on your local machine, foll
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone https://github.com/Hridesh14/Australian-Rain-Prediction-A
 cd YOUR_REPO_NAME
 2. Install dependencies:
 Ensure you have Python installed, then install the required packages:```
